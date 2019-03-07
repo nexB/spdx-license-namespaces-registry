@@ -1,0 +1,68 @@
+# Document Information
+
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+DocumentComment: <text>Generated with ScanCode and provided on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. No content created from
+ScanCode should be considered or used as legal advice. Consult an Attorney
+for any legal advice.
+ScanCode is a free software code scanning tool from nexB Inc. and others.
+Visit https://github.com/nexB/scancode-toolkit/ for support and download.</text>
+
+
+# Creation Info
+
+Creator: Tool: scancode-toolkit 3.0.2.post338.0612cb1
+Created: 2019-03-06T18:22:29Z
+
+
+# Package
+
+PackageName: licenses
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 7795a5c77453ab97105aaccc8bcedb262626758a
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: LicenseRef-scancode-bsd-intel
+PackageCopyrightText: NOASSERTION
+
+
+# File
+
+FileName: ./bsd-intel.LICENSE
+FileChecksum: SHA1: 064fff250feac626a401338e8f910d199e1cc72d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-scancode-bsd-intel
+FileCopyrightText: NOASSERTION
+
+
+# Extracted Licenses
+
+LicenseID: LicenseRef-scancode-bsd-intel
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/bsd-intel.yml
+</text>
+ExtractedText: <text>Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice, this
+list of conditions and the following disclaimer in the documentation and/or
+other materials provided with the distribution.
+
+* The name of Intel Corporation may not be used to endorse or promote products
+derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL INTEL OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</text>
+
+

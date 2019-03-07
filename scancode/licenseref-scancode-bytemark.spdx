@@ -1,0 +1,70 @@
+# Document Information
+
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+DocumentComment: <text>Generated with ScanCode and provided on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. No content created from
+ScanCode should be considered or used as legal advice. Consult an Attorney
+for any legal advice.
+ScanCode is a free software code scanning tool from nexB Inc. and others.
+Visit https://github.com/nexB/scancode-toolkit/ for support and download.</text>
+
+
+# Creation Info
+
+Creator: Tool: scancode-toolkit 3.0.2.post338.0612cb1
+Created: 2019-03-06T18:23:32Z
+
+
+# Package
+
+PackageName: licenses
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 5b1270967b40f728195df9c04311b58a399f4b13
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: LicenseRef-scancode-bytemark
+PackageCopyrightText: NOASSERTION
+
+
+# File
+
+FileName: ./bytemark.LICENSE
+FileChecksum: SHA1: 5679a8952d6d6f711156dff26050d2a9e999b862
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-scancode-bytemark
+FileCopyrightText: NOASSERTION
+
+
+# Extracted Licenses
+
+LicenseID: LicenseRef-scancode-bytemark
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/bytemark.yml
+</text>
+ExtractedText: <text>BYTEmark (tm)
+BYTE's Native Mode Benchmarks
+Rick Grehan, BYTE Magazine
+
+Creation:
+Revision: 3/95;10/95
+ 10/95 - Removed allocation that was taking place inside
+  the LU Decomposition benchmark. Though it didn't seem to
+  make a difference on systems we ran it on, it nonetheless
+  removes an operating system dependency that probably should
+  not have been there.
+
+DISCLAIMER
+The source, executable, and documentation files that comprise
+the BYTEmark benchmarks are made available on an "as is" basis.
+This means that we at BYTE Magazine have made every reasonable
+effort to verify that the there are no errors in the source and
+executable code.  We cannot, however, guarantee that the programs
+are error-free.  Consequently, McGraw-HIll and BYTE Magazine make
+no claims in regard to the fitness of the source code, executable
+code, and documentation of the BYTEmark.
+ Furthermore, BYTE Magazine, McGraw-Hill, and all employees
+of McGraw-Hill cannot be held responsible for any damages resulting
+from the use of this code or the results obtained from using
+this code.</text>
+
+

@@ -1,0 +1,56 @@
+# Document Information
+
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+DocumentComment: <text>Generated with ScanCode and provided on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. No content created from
+ScanCode should be considered or used as legal advice. Consult an Attorney
+for any legal advice.
+ScanCode is a free software code scanning tool from nexB Inc. and others.
+Visit https://github.com/nexB/scancode-toolkit/ for support and download.</text>
+
+
+# Creation Info
+
+Creator: Tool: scancode-toolkit 3.0.2.post338.0612cb1
+Created: 2019-03-06T18:21:19Z
+
+
+# Package
+
+PackageName: licenses
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: f5b623a150f8c77255a9a20ddd5b8e2dceb18b86
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: LicenseRef-scancode-bsla
+PackageCopyrightText: NOASSERTION
+
+
+# File
+
+FileName: ./bsla.LICENSE
+FileChecksum: SHA1: 0cf4fddd1c1689f497b27d6e69101ed189dc1e09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-scancode-bsla
+FileCopyrightText: NOASSERTION
+
+
+# Extracted Licenses
+
+LicenseID: LicenseRef-scancode-bsla
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/bsla.yml
+</text>
+ExtractedText: <text>Redistribution and use in source and binary forms are permitted
+provided that the above copyright notice and this paragraph are
+duplicated in all such forms and that any documentation,
+advertising materials, and other materials related to such
+distribution and use acknowledge that the software was developed
+by the University of California, Berkeley. The name of the
+University may not be used to endorse or promote products derived
+from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</text>
+
+
