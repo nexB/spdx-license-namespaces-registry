@@ -1,0 +1,73 @@
+# Document Information
+
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+DocumentComment: <text>Generated with ScanCode and provided on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. No content created from
+ScanCode should be considered or used as legal advice. Consult an Attorney
+for any legal advice.
+ScanCode is a free software code scanning tool from nexB Inc. and others.
+Visit https://github.com/nexB/scancode-toolkit/ for support and download.</text>
+
+
+# Creation Info
+
+Creator: Tool: scancode-toolkit 3.0.2.post338.0612cb1
+Created: 2019-03-06T18:25:52Z
+
+
+# Package
+
+PackageName: licenses
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: bbf7d95dc9fd21852561c869c3f8211f8827647f
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: LicenseRef-scancode-bsd-innosys
+PackageCopyrightText: NOASSERTION
+
+
+# File
+
+FileName: ./bsd-innosys.LICENSE
+FileChecksum: SHA1: a25471012e8809b4a0a6e86ad3b308554bafe15e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-scancode-bsd-innosys
+FileCopyrightText: NOASSERTION
+
+
+# Extracted Licenses
+
+LicenseID: LicenseRef-scancode-bsd-innosys
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/bsd-innosys.yml
+</text>
+ExtractedText: <text>Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+1. Redistributions of source code must retain this licence text
+without modification, this list of conditions, and the following
+disclaimer.  The following copyright notice must appear immediately at
+the beginning of all source files:
+
+        Copyright (C) InnoSys Incorporated.  All Rights Reserved
+
+        This file is available under a BSD-style copyright
+
+2. The name of InnoSys Incorporated may not be used to endorse or promote
+products derived from this software without specific prior written
+permission.
+
+THIS SOFTWARE IS PROVIDED BY INNOSYS CORP. ``AS IS'' AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN
+NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.</text>
+
+

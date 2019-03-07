@@ -1,0 +1,58 @@
+# Document Information
+
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+DocumentComment: <text>Generated with ScanCode and provided on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. No content created from
+ScanCode should be considered or used as legal advice. Consult an Attorney
+for any legal advice.
+ScanCode is a free software code scanning tool from nexB Inc. and others.
+Visit https://github.com/nexB/scancode-toolkit/ for support and download.</text>
+
+
+# Creation Info
+
+Creator: Tool: scancode-toolkit 3.0.2.post338.0612cb1
+Created: 2019-03-06T18:29:18Z
+
+
+# Package
+
+PackageName: licenses
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: cdf8e0fccea57b799ff58bc925f6a0e2c0b82c25
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: LicenseRef-scancode-pd-programming
+PackageCopyrightText: NOASSERTION
+
+
+# File
+
+FileName: ./pd-programming.LICENSE
+FileChecksum: SHA1: 3d945745ea2ae253fafeee1d72bdb4766b9999d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-scancode-pd-programming
+FileCopyrightText: NOASSERTION
+
+
+# Extracted Licenses
+
+LicenseID: LicenseRef-scancode-pd-programming
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/pd-programming.yml
+</text>
+ExtractedText: <text>Copyright (c) 2005 by PD'Programming Inc. http://www.pdmagic.com
+Written by Jeff Rafter
+
+Coords.js is free for both commercial and non-commercial use and
+redistribution, provided that PD'Programming's copyright and disclaimer are
+retained intact.  You are free to modify coords.js for your own use and
+to redistribute coords.js with your modifications, provided that the
+modifications are clearly documented.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+merchantability or fitness for a particular purpose.  Please use it AT
+YOUR OWN RISK.</text>
+
+
